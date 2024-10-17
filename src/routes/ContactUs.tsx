@@ -5,7 +5,7 @@ export default function ContactUs() {
         <>
         <div>
             <nav>
-                CONTACT US 123123123
+                CONTACT US
                 <Form>
                     Someform
                 </Form>
